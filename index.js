@@ -1,1 +1,1 @@
-var recipe = Object({key,value})
+var recipe = Objects({key,value});
